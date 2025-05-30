@@ -194,4 +194,10 @@ pip install your-package-name --upgrade
 
 ---
 
-**Happy packaging!** 🐍📦
+**Happy packaging!** 🐍📦 If you have some problems you can watch this tutorial:
+
+<div align="center">
+
+[![YOTUBETUTORIAL](https://img.youtube.com/vi/9Ii34WheBOA/0.jpg)](https://www.youtube.com/watch?v=9Ii34WheBOA)
+
+</div>
