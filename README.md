@@ -1,5 +1,7 @@
 # PyPI Publishing Tutorial
 
+![DEV](https://img.shields.io/badge/Dev-Bojidar%20Georgiev%20-%20%2347b3ff)
+
 A comprehensive guide to creating, structuring, and publishing Python packages to PyPI.
 
 ## Table of Contents
@@ -10,6 +12,7 @@ A comprehensive guide to creating, structuring, and publishing Python packages t
 - [Documentation](#documentation)
 - [Building and Publishing](#building-and-publishing)
 - [Updating Your Package](#updating-your-package)
+- 
 
 ## Project Structure
 
